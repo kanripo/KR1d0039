@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮商
-#+DATE: 2015-09-23 09:37:49
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:09:17.180586
+#+PROPERTY: ID KR1d0039
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1d0039_WYG_001-1a>¶
 欽定四庫全書¶
 　儀禮商卷一¶
@@ -470,4 +472,3 @@
 爾雅云然郭氏不㑹鄭註以東西堂為箱既不思東西¶
 堂寢廟俱有且不知既名東西堂不得更名為箱也¶
 　儀禮商卷一¶
-

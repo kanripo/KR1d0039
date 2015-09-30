@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮商
-#+DATE: 2015-09-23 09:37:49
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:09:17.195820
+#+PROPERTY: ID KR1d0039
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1d0039_WYG_002-1a>¶
 欽定四庫全書¶
 　儀禮商卷二¶
@@ -524,4 +526,3 @@
 　¶
 　¶
 　儀禮商卷二¶
-
